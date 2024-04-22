@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">login_register</string>
+    <string name="fkom">Selamat Datang di FKOM Mobile App</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="register">Register</string>
+</resources>
